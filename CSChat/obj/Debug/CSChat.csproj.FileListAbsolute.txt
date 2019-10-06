@@ -1,0 +1,5 @@
+E:\projects\CSChat\CSChat\bin\Debug\CSChat.exe
+E:\projects\CSChat\CSChat\bin\Debug\CSChat.pdb
+E:\projects\CSChat\CSChat\obj\Debug\CSChat.csprojAssemblyReference.cache
+E:\projects\CSChat\CSChat\obj\Debug\CSChat.exe
+E:\projects\CSChat\CSChat\obj\Debug\CSChat.pdb

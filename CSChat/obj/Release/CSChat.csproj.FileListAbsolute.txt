@@ -1,0 +1,5 @@
+E:\projects\CSChat\CSChat\bin\Release\CSChat.exe
+E:\projects\CSChat\CSChat\bin\Release\CSChat.pdb
+E:\projects\CSChat\CSChat\obj\Release\CSChat.csprojAssemblyReference.cache
+E:\projects\CSChat\CSChat\obj\Release\CSChat.exe
+E:\projects\CSChat\CSChat\obj\Release\CSChat.pdb
