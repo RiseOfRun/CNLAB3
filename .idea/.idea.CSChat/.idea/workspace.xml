@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8e72279-8424-4ce5-a9ab-b9db50a62acc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSChat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSChat/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSChat/Client.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSChat/Client.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSChat/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSChat/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSChat/Server.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSChat/Server.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSChat/bin/Debug/CSChat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CSChat/bin/Debug/CSChat.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSChat/bin/Debug/CSChat.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CSChat/bin/Debug/CSChat.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSChat/bin/Release/CSChat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CSChat/bin/Release/CSChat.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSChat/bin/Release/CSChat.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CSChat/bin/Release/CSChat.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSChat/obj/Debug/CSChat.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CSChat/obj/Debug/CSChat.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSChat/obj/Debug/CSChat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CSChat/obj/Debug/CSChat.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSChat/obj/Debug/CSChat.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CSChat/obj/Debug/CSChat.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSChat/obj/Release/CSChat.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CSChat/obj/Release/CSChat.csprojAssemblyReference.cache" afterDir="false" />
@@ -25,7 +20,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSChat/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
@@ -53,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSChat/Server.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="139" column="9" lean-forward="true" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+            <state relative-caret-position="1584">
+              <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
               <folding>
                 <marker date="1572543028630" expanded="false" signature="6:210" ph="..." />
                 <marker date="1572543028630" expanded="true" signature="228:4622" ph="{...}" />
@@ -124,10 +119,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CSChat/Client.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
+            <state relative-caret-position="208">
               <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <marker date="1571260532499" expanded="false" signature="6:136" ph="..." />
@@ -284,11 +279,12 @@
       <workItem from="1570289282669" duration="4984000" />
       <workItem from="1571260155936" duration="937000" />
       <workItem from="1572542952813" duration="123000" />
+      <workItem from="1572553826440" duration="653000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20290000" />
+    <option name="totallyTimeSpent" value="20943000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,7 +298,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25895315" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.261708" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -322,7 +318,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Build" order="15" visible="true" weight="0.32845894" />
+      <window_info active="true" anchor="bottom" id="Build" order="15" visible="true" weight="0.32753327" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -389,6 +385,20 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CSChat/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="80" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="80" />
+          <folding>
+            <marker date="1571260489149" expanded="true" signature="6:55" ph="..." />
+            <marker date="1571260489149" expanded="true" signature="73:702" ph="{...}" />
+            <marker date="1571260489149" expanded="true" signature="102:700" ph="{...}" />
+            <marker date="1571260489149" expanded="true" signature="155:694" ph="{...}" />
+            <marker date="1571260489149" expanded="true" signature="255:684" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03928.00/Source/ndp/fx/src/net/System/Net/Sockets/Socket.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85136">
@@ -396,71 +406,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03928.00/Source/ndp/fx/src/net/System/Net/_LazyAsyncResult.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6016">
-          <caret line="376" column="8" selection-start-line="376" selection-start-column="8" selection-end-line="376" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03928.00/Source/ndp/fx/src/net/System/Net/_ContextAwareResult.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7392">
-          <caret line="462" column="8" selection-start-line="462" selection-start-column="8" selection-end-line="462" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03928.00/Source/ndp/clr/src/BCL/system/threading/executioncontext.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14656">
-          <caret line="916" column="8" selection-start-line="916" selection-start-column="8" selection-end-line="916" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03928.00/Source/ndp/clr/src/BCL/system/throwhelper.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1568">
-          <caret line="98" column="12" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSChat/Client.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <marker date="1571260532499" expanded="false" signature="6:136" ph="..." />
-            <marker date="1571260532499" expanded="true" signature="154:1678" ph="{...}" />
-            <marker date="1571260532499" expanded="true" signature="173:1676" ph="{...}" />
-            <marker date="1571260532499" expanded="true" signature="476:558" ph="{...}" />
-            <marker date="1571260532499" expanded="true" signature="605:740" ph="{...}" />
-            <marker date="1571260532499" expanded="true" signature="779:1073" ph="{...}" />
-            <marker date="1571260532499" expanded="true" signature="902:1063" ph="{...}" />
-            <marker date="1571260532499" expanded="true" signature="1111:1670" ph="{...}" />
-            <marker date="1571260532499" expanded="true" signature="1282:1588" ph="{...}" />
-            <marker date="1571260532499" expanded="true" signature="1348:1524" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03928.00/Source/ndp/fx/src/net/System/Net/Sockets/TCPClient.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2016">
-          <caret line="126" selection-start-line="126" selection-end-line="126" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03928.00/Source/ndp/fx/src/net/System/Net/Sockets/NetworkStream.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13904">
-          <caret line="869" column="16" selection-start-line="869" selection-start-column="16" selection-end-line="869" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSChat/Server.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="139" column="9" lean-forward="true" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+        <state relative-caret-position="1584">
+          <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
           <folding>
             <marker date="1572543028630" expanded="false" signature="6:210" ph="..." />
             <marker date="1572543028630" expanded="true" signature="228:4622" ph="{...}" />
@@ -493,16 +442,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSChat/Program.cs">
+    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03928.00/Source/ndp/fx/src/net/System/Net/_LazyAsyncResult.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="80" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="80" />
+        <state relative-caret-position="6016">
+          <caret line="376" column="8" selection-start-line="376" selection-start-column="8" selection-end-line="376" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03928.00/Source/ndp/fx/src/net/System/Net/_ContextAwareResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7392">
+          <caret line="462" column="8" selection-start-line="462" selection-start-column="8" selection-end-line="462" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03928.00/Source/ndp/clr/src/BCL/system/threading/executioncontext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14656">
+          <caret line="916" column="8" selection-start-line="916" selection-start-column="8" selection-end-line="916" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03928.00/Source/ndp/clr/src/BCL/system/throwhelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1568">
+          <caret line="98" column="12" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03928.00/Source/ndp/fx/src/net/System/Net/Sockets/TCPClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03928.00/Source/ndp/fx/src/net/System/Net/Sockets/NetworkStream.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13904">
+          <caret line="869" column="16" selection-start-line="869" selection-start-column="16" selection-end-line="869" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSChat/Client.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
-            <marker date="1571260489149" expanded="true" signature="6:55" ph="..." />
-            <marker date="1571260489149" expanded="true" signature="73:702" ph="{...}" />
-            <marker date="1571260489149" expanded="true" signature="102:700" ph="{...}" />
-            <marker date="1571260489149" expanded="true" signature="155:694" ph="{...}" />
-            <marker date="1571260489149" expanded="true" signature="255:684" ph="{...}" />
+            <marker date="1571260532499" expanded="false" signature="6:136" ph="..." />
+            <marker date="1571260532499" expanded="true" signature="154:1678" ph="{...}" />
+            <marker date="1571260532499" expanded="true" signature="173:1676" ph="{...}" />
+            <marker date="1571260532499" expanded="true" signature="476:558" ph="{...}" />
+            <marker date="1571260532499" expanded="true" signature="605:740" ph="{...}" />
+            <marker date="1571260532499" expanded="true" signature="779:1073" ph="{...}" />
+            <marker date="1571260532499" expanded="true" signature="902:1063" ph="{...}" />
+            <marker date="1571260532499" expanded="true" signature="1111:1670" ph="{...}" />
+            <marker date="1571260532499" expanded="true" signature="1282:1588" ph="{...}" />
+            <marker date="1571260532499" expanded="true" signature="1348:1524" ph="{...}" />
           </folding>
         </state>
       </provider>
