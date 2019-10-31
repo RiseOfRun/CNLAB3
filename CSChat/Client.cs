@@ -21,6 +21,13 @@ namespace CSChat
             connection = new TcpClient(host.ToString(),port);
         }
 
+        public Client(IPAddress IP, int port)
+        {
+            host = IP;
+            this.port = port;
+            connection = new TcpClient(host.ToString(),port);
+        }
+
         public void StartMassanging()
         {
             connection.GetStream().BeginRead(buffer, 0, buffer.Length, OnRead, stream);

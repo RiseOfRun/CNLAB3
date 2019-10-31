@@ -12,12 +12,12 @@ namespace CSChat
             switch (option.Split(' ')[0])
             {
                 case "start":
-                    Server chat = new Server(IPAddress.Parse("127.0.0.1"), 2001);
+                    Server chat = new Server(IPAddress.Any, 2001);
                     chat.StartAcceptTcpClients();
                     chat.Start();
                     break;
                 case "connect":
-                    Client user = new Client();
+                    Client user = new Client(IPAddress.Parse(option.Split(' ')[1]),2001);
                     user.StartMassanging();
                     break;
             }

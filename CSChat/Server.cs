@@ -124,7 +124,7 @@ namespace CSChat
                 }
                 catch (Exception e)
                 {
-                    BroadCast(new List<User>{client}, "FCK u");
+                    BroadCast(new List<User>{client}, "invalid Name");
                 }
                 
                 string callback = "#Name:" + client.Name;
@@ -143,6 +143,7 @@ namespace CSChat
         {
             foreach (var user in toSend)
             {
+                Console.WriteLine(message);
                 user.connection.GetStream().Write(Encoding.UTF8.GetBytes(message), 0, message.Length);
             }
         }
