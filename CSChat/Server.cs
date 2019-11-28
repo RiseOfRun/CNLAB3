@@ -100,7 +100,7 @@ namespace CSChat
             User client = new User(ServerSock.EndAcceptTcpClient(ar));
             ConnectedUsers.Add(client);
             client.Name = "Guest" + ConnectedUsers.Count();
-            Debug.Write(ConnectedUsers.Last().connection.Client.RemoteEndPoint.ToString() + " connected");
+            Console.Write(ConnectedUsers.Last().connection.Client.RemoteEndPoint.ToString() + " connected");
             string callback = "connected. use /setName";
             client.connection.GetStream().Write(Encoding.UTF8.GetBytes(callback), 0, callback.Length);
             client.connection.GetStream().BeginRead(client.buffer, 0, client.buffer.Length, OnRead, client);
@@ -132,6 +132,7 @@ namespace CSChat
             }
             else
             {
+                Console.WriteLine(message);
                 message = $"{client.Name}: " + message;
                 BroadCast(ConnectedUsers, message);
             }
