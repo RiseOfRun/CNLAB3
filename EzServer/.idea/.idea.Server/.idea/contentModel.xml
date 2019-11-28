@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Runi\.Rider2019.1\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Runi\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_CSChat.-367585195.00" t="ExcludeRecursive" />
-    <e p="E:\projects\CSChat" t="IncludeFlat">
-      <e p="CSChat" t="IncludeRecursive">
+    <e p="C:\Users\Runi\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Server.-234521169.00" t="ExcludeRecursive" />
+    <e p="E:\projects\Simple-httpServer-master" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Server" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
-        <e p="CSChat.csproj" t="IncludeRecursive" />
+        <e p="HttpServer.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
@@ -14,10 +16,9 @@
         </e>
         <e p="Request.cs" t="Include" />
         <e p="Response.cs" t="Include" />
-        <e p="Server.cs" t="Include" />
+        <e p="Server.csproj" t="IncludeRecursive" />
       </e>
-      <e p="CSChat.sln" t="IncludeFlat" />
-      <e p="packages" t="ExcludeRecursive" />
+      <e p="Server.sln" t="IncludeFlat" />
     </e>
   </component>
 </project>
