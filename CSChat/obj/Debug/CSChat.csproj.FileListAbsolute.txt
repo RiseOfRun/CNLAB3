@@ -3,3 +3,9 @@ E:\projects\CSChat\CSChat\bin\Debug\CSChat.pdb
 E:\projects\CSChat\CSChat\obj\Debug\CSChat.csprojAssemblyReference.cache
 E:\projects\CSChat\CSChat\obj\Debug\CSChat.exe
 E:\projects\CSChat\CSChat\obj\Debug\CSChat.pdb
+D:\Projects\CN3\CNLAB3\CSChat\bin\Debug\CSChat.exe
+D:\Projects\CN3\CNLAB3\CSChat\bin\Debug\CSChat.pdb
+D:\Projects\CN3\CNLAB3\CSChat\obj\Debug\CSChat.csprojAssemblyReference.cache
+D:\Projects\CN3\CNLAB3\CSChat\obj\Debug\CSChat.csproj.CoreCompileInputs.cache
+D:\Projects\CN3\CNLAB3\CSChat\obj\Debug\CSChat.exe
+D:\Projects\CN3\CNLAB3\CSChat\obj\Debug\CSChat.pdb
